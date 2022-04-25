@@ -14,7 +14,7 @@ Gerador de senha de até 25 caracteres
   ![screencapture-file-G-Meu-Drive-Geral-Lucas-Dallavalle-CURSO-WEB-Gerador-de-Senha-index-html-2022-04-25-09_09_54](https://user-images.githubusercontent.com/89872652/165086228-0277b446-41ef-47b1-898f-b9def4dfe63f.png)
 
 
-Site direto do projeto: https://devflix-alura.netlify.app/
+Site direto do projeto: https://password-generator22.netlify.app/
 
 
 # Autor
