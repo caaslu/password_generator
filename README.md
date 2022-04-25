@@ -9,7 +9,9 @@ Gerador de senha de até 25 caracteres
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Codepen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg">
+<img align="center" alt="Codepen" height="30" width="40" src="http://bricksdesign.com.br/wp-content/uploads/2022/04/netlify.svg" >
 </div>
+
 
 ##
 
